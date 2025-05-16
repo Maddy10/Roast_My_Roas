@@ -3,6 +3,11 @@
 **Predict your Return on Ad Spend (ROAS)... before your marketing campaign sets your budget on fire.**  
 This is a fun, interactive app built with [Streamlit](https://streamlit.io) to help marketers and data analysts quickly estimate campaign profitability using machine learning.
 
+
+## 📸 App Preview
+
+![ROAS App Screenshot](FaceIt.png)
+
 ---
 
 ## 🤔 What Is ROAS?
